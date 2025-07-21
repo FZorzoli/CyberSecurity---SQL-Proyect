@@ -10,7 +10,7 @@ Combina análisis en **SQL** y **tablas dinámicas de Excel** para identificar p
 - Analizar el Índice de Calidad del Aire (AQI) en LATAM.
 - Detectar las ciudades con mayor concentración de contaminantes (PM2.5, PM10).
 - Comparar cómo varía la temperatura, humedad y AQI según país, mes o ciudad.
-- Visualizar estos patrones mediante gráficos en Excel.
+- Visualizar estos patrones mediante gráficos variables en Excel.
   
 # 🛠️ Herramientas y Tecnologías:
 - **Excel**: Limpieza de datos y tablas dinámicas.
@@ -47,9 +47,9 @@ El archivo vinculado a SQL contiene consultas para responder preguntas como:
 
 # 📊 Análisis con Excel
 El archivo Excel incluye:
-- Tablas dinámicas con filtros por ciudad, país, contaminante y mes.
+- Tablas dinámicas interactivas con filtros por ciudad, país, contaminante y mes.
 - Gráficos comparativos de PM2.5, AQI y temperatura.
 - Ranking de ciudades con mayor contaminación.
 - Evolución mensual de condiciones ambientales.
-
-> 📎 Capturas de gráficos incluidos en la carpeta [`images/`](./images)
+- Promedio de contaminantes por ubicación
+- Identificar niveles máximos y minimos de contaminación
