@@ -3,6 +3,8 @@
 -Este proyecto explora datos sobre calidad del aire y condiciones climáticas en ciudades de América Latina.  
 Combina análisis en **SQL** y **tablas dinámicas de Excel** para identificar patrones ambientales y comparar condiciones entre países y ciudades.
 
+# ⚠️ Aclaración de responsabilidad: Desarrollé este Readme con orientación de la IA "Claude" con el único fin de perfeccionarlo y que sea lo mas profesional posible, sin sacrificar mis ideas originales respecto al file "Readme", es decir, fue solo una ayuda, mas no una automatización total del proceso.
+
 # 📌 Objetivos buscados en el proyecto:
 
 - Analizar el Índice de Calidad del Aire (AQI) en LATAM.
