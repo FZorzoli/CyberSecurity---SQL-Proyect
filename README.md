@@ -7,6 +7,7 @@ Combina análisis en **SQL** y **tablas dinámicas de Excel** para identificar p
 
 # 📌 Objetivos buscados en el proyecto:
 
+- Limpieza y orden del DataSet original.
 - Analizar el Índice de Calidad del Aire (AQI) en LATAM.
 - Detectar las ciudades con mayor concentración de contaminantes (PM2.5, PM10).
 - Comparar cómo varía la temperatura, humedad y AQI según país, mes o ciudad.
