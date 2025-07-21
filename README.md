@@ -11,7 +11,9 @@ Combina análisis en **SQL** y **tablas dinámicas de Excel** para identificar p
 - Visualizar estos patrones mediante gráficos en Excel.
 
 🗃️ Aspectos del DataSet:
+
 -**Nombre**: Clima y Calidad del aire en LATAM.
+
 -**Fuente**: Kaggle – Dataset: (https://www.kaggle.com/datasets/anycaroliny/latin-america-weather-and-air-quality-data)  
  
  🧮**Columnas Destacadas del Proyecto**:
