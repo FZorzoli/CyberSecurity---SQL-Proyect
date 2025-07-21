@@ -26,7 +26,7 @@ Para la limpieza y organización del DataSet, realicé lo siguiente:
 
 # 🗃️ Aspectos del DataSet:
 -**Nombre**: Clima y Calidad del aire en LATAM.
--**Fuente**: Kaggle – Dataset: (https://www.kaggle.com/datasets/anycaroliny/latin-america-weather-and-air-quality-data)  
+-**Fuente**: Kaggle;Dataset: (https://www.kaggle.com/datasets/anycaroliny/latin-america-weather-and-air-quality-data)  
  
 # 🧮 Columnas Destacadas del Proyecto:
 - Fecha
