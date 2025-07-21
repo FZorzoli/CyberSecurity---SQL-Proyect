@@ -49,7 +49,8 @@ El archivo vinculado a SQL contiene consultas para responder preguntas como:
 El archivo Excel incluye:
 - Tablas dinámicas interactivas con filtros por ciudad, país, contaminante y mes.
 - Gráficos comparativos de PM2.5, AQI y temperatura.
-- Ranking de ciudades con mayor contaminación.
-- Evolución mensual de condiciones ambientales.
-- Promedio de contaminantes por ubicación
-- Identificar niveles máximos y minimos de contaminación
+- Promedio de contaminantes por ciudad o ubicación.
+- Evolución de contaminantes por fecha.
+- Comparar niveles de un contaminante específico por ubicación.
+- Identificar niveles máximos/mínimos.
+
